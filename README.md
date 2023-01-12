@@ -1,7 +1,7 @@
 # Dream-Jobs
 This repository is having all the codes used to create this web application.
 
-## Below is the heroku link for your reference 
+## Below is the live link for your reference 
 
 [Live App](https://rissh.github.io/Dream-Jobs/)
 
